@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Vehicle>
+  <Car>
+    <Body>Большой</Body>
+    <driveUnit>Передний</driveUnit>
+    <engineCapacity>1.8</engineCapacity>
+    <mark>Toyota</mark>
+    <model>RAV4</model>
+    <releaseDate>2016</releaseDate>
+  </Car>
+</Vehicle>
